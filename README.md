@@ -1,0 +1,1 @@
+# Delete-the-second-column-from-a-given-array-and-insert-the-following-new-column-in-its-place.-sample
